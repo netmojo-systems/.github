@@ -1,6 +1,6 @@
 # Netmojo Systems
 
-Agent-forward software development. [netmojo.ca](https://netmojo.ca)
+Agent-forward software development. Moving fast, without breaking things.
 
 ## Projects
 
