@@ -1,8 +1,8 @@
 # Netmojo Systems
 
-Agent-forward software development. Moving fast, without breaking things.
+Agent-forward software development. Move fast, and make things.
 
-## Projects
+## Current Projects
 
 - [omdrop-plugin](https://github.com/netmojo-systems/omdrop-plugin): send and receive files with nearby Apple devices over AirDrop, on Apple Silicon Macs running Omarchy.
 - [omdrop-awdl](https://github.com/netmojo-systems/omdrop-awdl): AWDL (the AirDrop link layer) support for the Broadcom BCM4387, as `brcmfmac` patches and a DKMS package.
